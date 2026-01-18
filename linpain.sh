@@ -2,7 +2,7 @@
 
 #=============================================================================
 # LINUX-ARSENAL - Linux Pentesting Tools Downloader
-# OSCP/OSCP+ Compliant - All enumeration tools, no auto-exploitation
+# + @mahdiesta - All enumeration tools, no auto-exploitation
 # Focus: Linux PrivEsc, Enumeration, Post-Exploitation
 #=============================================================================
 
