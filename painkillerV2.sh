@@ -3,7 +3,7 @@
 #=============================================================================
 # PAINKILLER - Windows Pentesting Tools Downloader & Transfer Suite
 # COMPLETE VERSION - All AD tools from HTB Academy + extras
-# All tools + All transfer methods for any foothold scenario
+# @Mahdiesta - mahdiesta@gmail.com
 #=============================================================================
 
 # Colors
